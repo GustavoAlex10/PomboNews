@@ -4,8 +4,9 @@ Single Page com boletins informativos para equipe de suporte técnico Pombonet L
 ## Get Started ##
 ### Run ###
 
-*Clone ou Download do projeto
-*Iniciar arquivo index.html
+* Clone ou Download do projeto <br />
+
+* Iniciar arquivo index.html
 
 
 
