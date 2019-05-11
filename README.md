@@ -1,2 +1,13 @@
 # PomboNews
-Single Page com boletins informativos para equipe de suporte técnico na Pombonet, utilizando Template Free Mobirise.
+Single Page com boletins informativos para equipe de suporte técnico Pombonet LTDA, utilizando Template Free Mobirise.
+
+## Get Started ##
+### Run ###
+
+*Clone ou Download do projeto
+*Iniciar arquivo index.html
+
+
+
+
+
